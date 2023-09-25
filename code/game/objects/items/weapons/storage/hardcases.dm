@@ -441,7 +441,6 @@ obj/item/storage/hcases/attackby(obj/item/W, mob/user)
 		stamped = TRUE
 		var/list/options = list()
 		options["Kalashnikov - assault rifle"] = list(/obj/item/gun/projectile/automatic/ak47,/obj/item/ammo_magazine/rifle_75,/obj/item/ammo_magazine/rifle_75, /obj/item/ammo_magazine/rifle_75/rubber)
-		options["Galaxy - plasma & ion pistol"] = list(/obj/item/gun/energy/glock, /obj/item/cell/medium, /obj/item/cell/medium, /obj/item/cell/medium)
 		options["Sweeper - automatic combat shotgun"] = list(/obj/item/gun/projectile/shotgun/sweeper, /obj/item/ammo_magazine/m12, /obj/item/ammo_magazine/m12, /obj/item/ammo_magazine/m12/beanbag)
 		var/choice = input(user,"What type of equipment?") as null|anything in options
 		if(src && choice)
@@ -467,7 +466,6 @@ obj/item/storage/hcases/attackby(obj/item/W, mob/user)
 		stamped = TRUE
 		var/list/options = list()
 		options["Federalist - assault rifle"] = list(/obj/item/gun/projectile/automatic/federalist,/obj/item/ammo_magazine/light_rifle_257,/obj/item/ammo_magazine/light_rifle_257, /obj/item/ammo_magazine/light_rifle_257/rubber)
-		options["Sunrise - energy SMG"] = list(/obj/item/gun/energy/sunrise, /obj/item/cell/medium, /obj/item/cell/medium, /obj/item/cell/medium)
 		options["Judge - combat shotgun"] = list(/obj/item/gun/projectile/shotgun/judge, /obj/item/ammo_magazine/ammobox/shotgun, /obj/item/ammo_magazine/ammobox/shotgun/beanbags)
 		var/choice = input(user,"What type of equipment?") as null|anything in options
 		if(src && choice)
@@ -519,7 +517,7 @@ obj/item/storage/hcases/attackby(obj/item/W, mob/user)
 		stamped = TRUE
 		var/list/options = list()
 		options["Ugil - carbine"] = list(/obj/item/gun/projectile/automatic/ak47/sa,/obj/item/ammo_magazine/light_rifle_257,/obj/item/ammo_magazine/light_rifle_257, /obj/item/ammo_magazine/light_rifle_257/rubber)
-		options["Cog - laser carbine"] = list(/obj/item/gun/energy/cog, /obj/item/cell/medium, /obj/item/cell/medium, /obj/item/cell/medium)
+		options["Wristbreaker - heavy revolver"] = list(/obj/item/gun/projectile/revolver/wristbreaker,/obj/item/ammo_magazine/speed_loader_rifle_75,/obj/item/ammo_magazine/speed_loader_rifle_75, /obj/item/ammo_magazine/speed_loader_rifle_75)
 		options["Trench - lever action shotgun"] = list(/obj/item/gun/projectile/shotgun/pump,/obj/item/ammo_magazine/speed_loader_shotgun,/obj/item/ammo_magazine/speed_loader_shotgun,/obj/item/ammo_magazine/speed_loader_shotgun/beanbag)
 		var/choice = input(user,"What type of equipment?") as null|anything in options
 		if(src && choice)
