@@ -96,7 +96,7 @@
 	initial_balance = INIT_BALANCE_MENIAL
 	wage = WAGE_LABOUR_DUMB //They should get paid by making food.
 
-	perks = list(PERK_CLUB, PERK_CHEF, PERK_COMMON_SENSE)
+	perks = list(PERK_COMMON_SENSE)
 
 	stat_modifiers = list(
 		STAT_ROB = 10,
