@@ -138,7 +138,7 @@
 	health_modifier = 5
 	outfit_type = /decl/hierarchy/outfit/job/service/janitor
 
-	perks = list(PERK_JINGLE_JANGLE, PERK_NEAT, PERK_COMMON_SENSE)
+	perks = list(PERK_NEAT, PERK_COMMON_SENSE)
 
 	stat_modifiers = list(
 		STAT_ROB = 15,
