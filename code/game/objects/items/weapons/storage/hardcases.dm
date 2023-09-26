@@ -374,7 +374,6 @@ obj/item/storage/hcases/attackby(obj/item/W, mob/user)
 	exspand_when_spawned = FALSE //No exspanding cheats
 
 /obj/item/storage/hcases/med/medical_job_trama/populate_contents()
-	new /obj/item/gearbox/traumatizedteam(src)
 	new /obj/item/gunbox/traumatizedteam(src) // Moved the weapon selection to here
 	new /obj/item/cell/medium/moebius/high(src) // Keeping the cell as a "second mag" for the Abnegate
 	new /obj/item/clothing/suit/straight_jacket(src)
@@ -533,31 +532,6 @@ obj/item/storage/hcases/attackby(obj/item/W, mob/user)
 /////////////////////
 // C.A.P.S.A Boxes //
 /////////////////////
-
-/obj/item/gearbox/traumatizedteam
-	name = "CAPSA Paramedic's equipment kit"
-	desc = "A secure box containing the heavy duty protective gear of the CAPSA Paramedics."
-	icon = 'icons/obj/storage.dmi'
-	icon_state = "secure"
-
-/obj/item/gearbox/traumatizedteam/attack_self(mob/living/user)
-	..()
-	var/stamped
-	if(!stamped)
-		stamped = TRUE
-		var/list/options = list()
-		options["Combat Paramedic RIG"] = list(/obj/item/rig/recovery_suit/equipped)
-		options["Advanced Paramedic Armor"] = list(/obj/item/clothing/suit/armor/paramedic,/obj/item/clothing/head/helmet/faceshield/paramedic)
-		var/choice = input(user,"Which armor will you take?") as null|anything in options
-		if(src && choice)
-			var/list/things_to_spawn = options[choice]
-			for(var/new_type in things_to_spawn)
-				var/atom/movable/AM = new new_type(get_turf(src))
-				if(istype(AM, /obj/item/gun/))
-					to_chat(user, "You have chosen \the [AM].")
-			qdel(src)
-		else
-			stamped = FALSE
 
 /obj/item/gunbox/traumatizedteam
 	name = "CAPSA Paramedic's self-defense guncase"
