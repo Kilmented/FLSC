@@ -477,32 +477,6 @@ obj/item/storage/hcases/attackby(obj/item/W, mob/user)
 		else
 			stamped = FALSE
 
-/obj/item/gunbox/investigator
-	name = "CI's equipment kit"
-	desc = "A secure box containing the Criminal Investigator's primary weapon."
-	icon = 'icons/obj/storage.dmi'
-	icon_state = "rifle_case"
-
-/obj/item/gunbox/investigator/attack_self(mob/living/user)
-	..()
-	var/stamped
-	if(!stamped)
-		stamped = TRUE
-		var/list/options = list()
-		options["Wristbreaker - heavy revolver"] = list(/obj/item/gun/projectile/revolver/wristbreaker,/obj/item/ammo_magazine/speed_loader_rifle_75,/obj/item/ammo_magazine/speed_loader_rifle_75, /obj/item/ammo_magazine/speed_loader_rifle_75)
-		options["Sunrise - energy SMG"] = list(/obj/item/gun/energy/sunrise, /obj/item/cell/medium, /obj/item/cell/medium, /obj/item/cell/medium)
-		options["Judge - combat shotgun"] = list(/obj/item/gun/projectile/shotgun/judge, /obj/item/ammo_magazine/ammobox/shotgun, /obj/item/ammo_magazine/ammobox/shotgun/beanbags)
-		var/choice = input(user,"What type of equipment?") as null|anything in options
-		if(src && choice)
-			var/list/things_to_spawn = options[choice]
-			for(var/new_type in things_to_spawn)
-				var/atom/movable/AM = new new_type(get_turf(src))
-				if(istype(AM, /obj/item/gun/))
-					to_chat(user, "You have chosen \the [AM].")
-			qdel(src)
-		else
-			stamped = FALSE
-
 /obj/item/gunbox/watchman
 	name = "Watchman equipment kit"
 	desc = "A secure box containing the Sentinal primary weapon."
