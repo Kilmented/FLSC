@@ -24,7 +24,7 @@
 		STAT_VIG = 15,
 	)
 
-	perks = list(PERK_MARKET_PROF, PERK_CLUB, PERK_COMMON_SENSE)
+	perks = list(PERK_MARKET_PROF, PERK_COMMON_SENSE)
 
 	outfit_type = /decl/hierarchy/outfit/job/service/clubmanager //Re-using this.
 	description = "The Bartender runs the colony bar, providing colonists with drinks and entertainment.<br>\
