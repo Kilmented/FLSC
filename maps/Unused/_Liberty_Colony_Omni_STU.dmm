@@ -74668,7 +74668,6 @@
 /area/liberty/outside/inside_colony)
 "owe" = (
 /obj/structure/table/marble,
-/obj/item/gun/matter/staff_of_asclepius,
 /turf/simulated/floor/wood,
 /area/liberty/command/cso)
 "owo" = (
