@@ -166,7 +166,6 @@
 	new /obj/item/storage/pouch/pistol_holster/cowboy(src) // More thematic
 	new /obj/item/implantpad(src)
 	new /obj/item/device/t_scanner/advanced(src)
-	new /obj/item/gunbox/investigator(src)
 	new /obj/item/gun/projectile/stinger/pepperball(src)
 	new /obj/item/ammo_magazine/pistol_35(src)
 	new /obj/item/ammo_magazine/pistol_35/rubber(src)
