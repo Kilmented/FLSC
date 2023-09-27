@@ -18371,7 +18371,6 @@
 /turf/simulated/floor/plating/under,
 /area/liberty/hallway/surface/section1)
 "dGf" = (
-/obj/landmark/join/start/shipbreaker,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/tiled/steel/techfloor,
@@ -35588,7 +35587,6 @@
 	name = "\improper Blackshield - Firing Range"
 	})
 "gTM" = (
-/obj/landmark/join/start/shipbreaker,
 /obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/tiled/steel/techfloor,
 /area/liberty/pros/prep)

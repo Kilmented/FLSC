@@ -38930,7 +38930,6 @@
 "bUl" = (
 /obj/structure/bed/chair,
 /obj/effect/decal/cleanable/dirt,
-/obj/landmark/join/start/shipbreaker,
 /turf/simulated/floor/tiled/steel/brown_platform,
 /area/liberty/pros/prep)
 "bUm" = (
@@ -40628,7 +40627,6 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
-/obj/landmark/join/start/shipbreaker,
 /turf/simulated/floor/tiled/steel/brown_platform,
 /area/liberty/pros/prep)
 "bYc" = (
@@ -82340,7 +82338,6 @@
 /area/liberty/crew_quarters/hydroponics)
 "dRY" = (
 /obj/structure/bed/chair/custom/bar_special,
-/obj/landmark/join/start/shipbreaker,
 /turf/simulated/floor/tiled/steel/gray_perforated,
 /area/liberty/crew_quarters/bar)
 "dRZ" = (

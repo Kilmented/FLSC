@@ -35897,7 +35897,6 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/table/bench/steel,
-/obj/landmark/join/start/shipbreaker,
 /turf/simulated/floor/tiled/dark,
 /area/liberty/pros/prep)
 "ipK" = (
@@ -40061,7 +40060,6 @@
 /area/liberty/storage/primary)
 "jnY" = (
 /obj/structure/table/bench/steel,
-/obj/landmark/join/start/shipbreaker,
 /turf/simulated/floor/tiled/white/techfloor,
 /area/liberty/pros/prep)
 "joe" = (
@@ -62920,7 +62918,6 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/table/bench/steel,
-/obj/landmark/join/start/shipbreaker,
 /turf/simulated/floor/tiled/dark,
 /area/liberty/pros/prep)
 "ozJ" = (
