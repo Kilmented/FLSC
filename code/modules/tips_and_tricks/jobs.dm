@@ -31,10 +31,6 @@
     jobs_list = list(JOBS_SECURITY)
     tipText = "As a member of security, you have broad access to chase criminals. This does not mean you can take anything you have access to. Taking things from other departments is theft!"
 
-/tipsAndTricks/jobs/newsprint
-    jobs_list = list(/datum/job/janitor)
-    tipText = "Your bundle of newsprint will never run out of paper, make sure to keep those news casters all stocked up."
-
 /tipsAndTricks/jobs/guild_resale_profit
     jobs_list = list(JOBS_SERVICE)
     tipText = "As Skylight, you should be buying up valuable things from scavengers and reselling them for a profit. Buy anything of value that's brought to you."
