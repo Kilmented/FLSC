@@ -111859,7 +111859,6 @@
 /turf/simulated/floor/tiled/steel/gray_platform,
 /area/liberty/maintenance/undergroundfloor1east)
 "vMu" = (
-/obj/landmark/join/start/trapper,
 /obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/tiled/steel/techfloor,
 /area/liberty/pros/prep)

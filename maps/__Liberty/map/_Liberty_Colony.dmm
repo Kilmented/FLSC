@@ -86054,7 +86054,6 @@
 /turf/simulated/floor/tiled/techmaint,
 /area/liberty/maintenance/undergroundfloor3east)
 "tBR" = (
-/obj/landmark/join/start/trapper,
 /turf/simulated/floor/tiled/dark/gray_platform,
 /area/liberty/pros/shuttle)
 "tCb" = (

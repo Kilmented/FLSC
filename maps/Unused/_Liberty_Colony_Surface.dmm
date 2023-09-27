@@ -9800,7 +9800,6 @@
 /turf/simulated/floor/beach/sand,
 /area/liberty/outside/meadow)
 "eSk" = (
-/obj/landmark/join/start/trapper,
 /obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/tiled/steel/techfloor,
 /area/liberty/pros/prep)

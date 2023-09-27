@@ -40691,7 +40691,6 @@
 /obj/structure/bed/chair{
 	dir = 8
 	},
-/obj/landmark/join/start/trapper,
 /turf/simulated/floor/tiled/steel/brown_platform,
 /area/liberty/pros/prep)
 "bYm" = (
@@ -82330,7 +82329,6 @@
 /area/liberty/command/RP)
 "dRW" = (
 /obj/structure/bed/chair/custom/bar_special,
-/obj/landmark/join/start/trapper,
 /turf/simulated/floor/tiled/steel/gray_perforated,
 /area/liberty/crew_quarters/bar)
 "dRX" = (

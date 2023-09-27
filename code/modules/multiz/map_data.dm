@@ -111,7 +111,7 @@ ADMIN_VERB_ADD(/client/proc/test_MD, R_DEBUG, null)
 						/datum/job/armorer, /datum/job/investigator, /datum/job/watchmen,
 						/datum/job/doctor, /datum/job/medic, /datum/job/psychiatrist,
 						/datum/job/engineer, /datum/job/mining,
-						/datum/job/trapper, /datum/job/shipbreaker,
+						/datum/job/shipbreaker,
 						/datum/job/fixer,
 						/datum/job/scientist, /datum/job/roboticist,
 						/datum/job/assistant,

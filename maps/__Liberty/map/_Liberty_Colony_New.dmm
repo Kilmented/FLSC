@@ -15465,7 +15465,6 @@
 /turf/simulated/floor/plating/under,
 /area/liberty/maintenance/undergroundfloor1south)
 "dIv" = (
-/obj/landmark/join/start/trapper,
 /turf/simulated/floor/tiled/dark,
 /area/liberty/pros/prep)
 "dIB" = (
@@ -82228,7 +82227,6 @@
 	},
 /area/shuttle/vasiliy_shuttle_area)
 "sTa" = (
-/obj/landmark/join/start/trapper,
 /obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/tiled/dark,
 /area/liberty/pros/prep)
