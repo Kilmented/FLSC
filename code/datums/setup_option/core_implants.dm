@@ -6,7 +6,6 @@
 	restricted_jobs = list(
 		/datum/job/clubmanager,
 		/datum/job/dc,
-		/datum/job/shepherd,
 		/datum/job/rp,
 		/datum/job/cso,
 		/datum/job/chief_engineer,
@@ -40,7 +39,6 @@
 		/datum/job/doctor,
 		/datum/job/medic,
 		/datum/job/secretary,
-		/datum/job/oathpledge,
 		/datum/job/chief_engineer,
 		/datum/job/clubmanager,
 		/datum/job/rp,
@@ -71,7 +69,6 @@
 	restricted_jobs = list(
 		/datum/job/outsider, // Nanogates are only available to colonist or allies.
 		/datum/job/secretary,
-		/datum/job/oathpledge,
 		/datum/job/cso,
 		/datum/job/clubmanager,
 		/datum/job/rp,

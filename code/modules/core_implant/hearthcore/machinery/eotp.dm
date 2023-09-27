@@ -138,7 +138,6 @@ var/global/obj/machinery/power/eotp/eotp
 	if(type_release == ALERT)
 
 		var/area/antagonist_area
-		var/preacher
 
 		for(var/datum/antagonist/A in GLOB.current_antags)
 			if((A.id == ROLE_CARRION) ||(A.id == ROLE_BLITZ) || (A.id == ROLE_BORER))
@@ -156,16 +155,6 @@ var/global/obj/machinery/power/eotp/eotp
 					H.adjustFireLoss(-15)
 					to_chat(H, SPAN_NOTICE("You feel a wave of calm pass over you. Your Hearthcore does a quick routine maintenance, patching any potential minor wounds across your body."))
 
-		else
-			for(var/mob/living/carbon/human/H in disciples)
-				if(H.mind && istype(H.mind.assigned_job, /datum/job/oathpledge))
-					preacher = H
-
-			if(!preacher && length(disciples))
-				preacher = pick(disciples)
-
-			if(preacher)
-				to_chat(preacher, SPAN_DANGER("You feel a strange presence lurking in [antagonist_area].")) // will say 'you feel an evil presence lurking in the Kitchen' or whatever
 
 	else if(type_release == INSPIRATION)
 		for(var/mob/living/carbon/human/H in disciples)

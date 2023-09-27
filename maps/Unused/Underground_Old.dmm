@@ -11714,7 +11714,6 @@
 /turf/simulated/floor/tiled/dark/greencorner,
 /area/liberty/crew_quarters/sleep/cryo2)
 "aEG" = (
-/obj/landmark/join/start/shepherd,
 /turf/simulated/floor/carpet/oracarpet,
 /area/liberty/pros/foreman)
 "aEH" = (
@@ -38931,7 +38930,6 @@
 "bUl" = (
 /obj/structure/bed/chair,
 /obj/effect/decal/cleanable/dirt,
-/obj/landmark/join/start/shipbreaker,
 /turf/simulated/floor/tiled/steel/brown_platform,
 /area/liberty/pros/prep)
 "bUm" = (
@@ -40629,7 +40627,6 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
-/obj/landmark/join/start/shipbreaker,
 /turf/simulated/floor/tiled/steel/brown_platform,
 /area/liberty/pros/prep)
 "bYc" = (
@@ -40692,7 +40689,6 @@
 /obj/structure/bed/chair{
 	dir = 8
 	},
-/obj/landmark/join/start/trapper,
 /turf/simulated/floor/tiled/steel/brown_platform,
 /area/liberty/pros/prep)
 "bYm" = (
@@ -58875,7 +58871,6 @@
 /turf/simulated/floor/tiled/steel/greencorner,
 /area/liberty/crew_quarters/fitness)
 "cPo" = (
-/obj/landmark/join/start/forgemaster,
 /turf/simulated/floor/wood,
 /area/liberty/maintenance/undergroundfloor2south)
 "cPp" = (
@@ -69763,7 +69758,6 @@
 /turf/simulated/floor/tiled/steel/bluecorner,
 /area/liberty/hallway/side/f2section3)
 "dox" = (
-/obj/landmark/join/start/forgemaster,
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /turf/simulated/floor/carpet/gaycarpet,
 /area/liberty/maintenance/undergroundfloor2south)
@@ -69900,7 +69894,6 @@
 	icon_state = "wooden_chair";
 	tag = "icon-wooden_chair (WEST)"
 	},
-/obj/landmark/join/start/forgemaster,
 /turf/simulated/floor/carpet/gaycarpet,
 /area/liberty/maintenance/undergroundfloor2south)
 "doL" = (
@@ -82334,7 +82327,6 @@
 /area/liberty/command/RP)
 "dRW" = (
 /obj/structure/bed/chair/custom/bar_special,
-/obj/landmark/join/start/trapper,
 /turf/simulated/floor/tiled/steel/gray_perforated,
 /area/liberty/crew_quarters/bar)
 "dRX" = (
@@ -82346,7 +82338,6 @@
 /area/liberty/crew_quarters/hydroponics)
 "dRY" = (
 /obj/structure/bed/chair/custom/bar_special,
-/obj/landmark/join/start/shipbreaker,
 /turf/simulated/floor/tiled/steel/gray_perforated,
 /area/liberty/crew_quarters/bar)
 "dRZ" = (

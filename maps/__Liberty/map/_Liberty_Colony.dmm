@@ -9196,10 +9196,6 @@
 /obj/structure/table/rack/shelf,
 /turf/simulated/floor/tiled/steel/gray_perforated,
 /area/liberty/quartermaster/hangarsupply)
-"ccQ" = (
-/obj/landmark/join/start/oathpledge,
-/turf/simulated/floor/tiled/dark/gray_platform,
-/area/liberty/pros/shuttle)
 "cdn" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
@@ -22549,7 +22545,6 @@
 /turf/simulated/floor/tiled/techmaint,
 /area/liberty/maintenance/undergroundfloor2north)
 "ffy" = (
-/obj/landmark/join/start/enkindled,
 /turf/simulated/floor/tiled/dark/gray_platform,
 /area/liberty/pros/shuttle)
 "ffC" = (
@@ -24862,7 +24857,6 @@
 /turf/simulated/floor/tiled/white/gray_perforated,
 /area/liberty/maintenance/undergroundfloor3north)
 "fGF" = (
-/obj/landmark/join/start/shipbreaker,
 /turf/simulated/floor/tiled/dark/gray_platform,
 /area/liberty/pros/shuttle)
 "fGG" = (
@@ -73592,7 +73586,6 @@
 /turf/simulated/floor/plating/under,
 /area/liberty/maintenance/maint_merc)
 "qLo" = (
-/obj/landmark/join/start/shepherd,
 /turf/simulated/floor/tiled/dark/gray_platform,
 /area/liberty/pros/shuttle)
 "qLs" = (
@@ -78509,7 +78502,6 @@
 /turf/simulated/floor/industrial/grey_slates,
 /area/liberty/maintenance/undergroundfloor3north)
 "rTA" = (
-/obj/landmark/join/start/forgemaster,
 /turf/simulated/floor/tiled/dark/gray_platform,
 /area/liberty/pros/shuttle)
 "rTE" = (
@@ -86061,7 +86053,6 @@
 /turf/simulated/floor/tiled/techmaint,
 /area/liberty/maintenance/undergroundfloor3east)
 "tBR" = (
-/obj/landmark/join/start/trapper,
 /turf/simulated/floor/tiled/dark/gray_platform,
 /area/liberty/pros/shuttle)
 "tCb" = (
@@ -106973,7 +106964,6 @@
 /turf/simulated/floor/tiled/dark,
 /area/liberty/maintenance/undergroundfloor1east)
 "yko" = (
-/obj/landmark/join/start/oathbound,
 /turf/simulated/floor/tiled/dark/gray_platform,
 /area/liberty/pros/shuttle)
 "ykx" = (
@@ -190118,7 +190108,6 @@ upq
 upq
 upq
 upq
-ccQ
 mXG
 rOo
 omv

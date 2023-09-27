@@ -9012,7 +9012,6 @@
 /area/liberty/outside/pond)
 "bPm" = (
 /obj/structure/bed/chair/sofa/brown/right,
-/obj/landmark/join/start/oathbound,
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
 	dir = 4
 	},
@@ -18372,7 +18371,6 @@
 /turf/simulated/floor/plating/under,
 /area/liberty/hallway/surface/section1)
 "dGf" = (
-/obj/landmark/join/start/shipbreaker,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/tiled/steel/techfloor,
@@ -21412,7 +21410,6 @@
 	name = "Security Training"
 	})
 "elF" = (
-/obj/landmark/join/start/oathbound,
 /obj/structure/bed/chair/comfy/brown,
 /turf/simulated/floor/carpet,
 /area/liberty/absolutism/vectorrooms)
@@ -35590,7 +35587,6 @@
 	name = "\improper Blackshield - Firing Range"
 	})
 "gTM" = (
-/obj/landmark/join/start/shipbreaker,
 /obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/tiled/steel/techfloor,
 /area/liberty/pros/prep)
@@ -38834,7 +38830,6 @@
 /area/liberty/engineering/engine_room)
 "hAv" = (
 /obj/structure/bed/chair/wood,
-/obj/landmark/join/start/oathbound,
 /turf/simulated/floor/carpet,
 /area/liberty/absolutism/vectorrooms)
 "hAC" = (
@@ -47907,7 +47902,6 @@
 /turf/simulated/mineral,
 /area/colony)
 "jpI" = (
-/obj/landmark/join/start/forgemaster,
 /obj/structure/disposalpipe/segment{
 	dir = 4
 	},
@@ -86043,7 +86037,6 @@
 /turf/simulated/floor/tiled/steel/techfloor,
 /area/liberty/engineering/engine_room)
 "qLn" = (
-/obj/landmark/join/start/forgemaster,
 /turf/simulated/floor/wood,
 /area/liberty/crew_quarters/clownoffice)
 "qLp" = (
@@ -101521,7 +101514,6 @@
 /obj/structure/bed/chair/office/dark{
 	dir = 1
 	},
-/obj/landmark/join/start/shepherd,
 /turf/simulated/floor/wood/wild3,
 /area/liberty/pros/foreman)
 "tNN" = (
@@ -111865,7 +111857,6 @@
 /turf/simulated/floor/tiled/steel/gray_platform,
 /area/liberty/maintenance/undergroundfloor1east)
 "vMu" = (
-/obj/landmark/join/start/trapper,
 /obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/tiled/steel/techfloor,
 /area/liberty/pros/prep)

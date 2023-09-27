@@ -9074,7 +9074,6 @@
 /turf/simulated/floor/tiled/steel,
 /area/liberty/hallway/surface/section1)
 "edL" = (
-/obj/landmark/join/start/shipbreaker,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/tiled/steel/techfloor,
@@ -9800,7 +9799,6 @@
 /turf/simulated/floor/beach/sand,
 /area/liberty/outside/meadow)
 "eSk" = (
-/obj/landmark/join/start/trapper,
 /obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/tiled/steel/techfloor,
 /area/liberty/pros/prep)
@@ -14057,7 +14055,6 @@
 /turf/simulated/floor/tiled/dark/golden,
 /area/liberty/absolutism/storage)
 "iLk" = (
-/obj/landmark/join/start/oathbound,
 /obj/structure/bed/chair/comfy/brown,
 /turf/simulated/floor/carpet,
 /area/liberty/absolutism/vectorrooms)
@@ -14729,7 +14726,6 @@
 /turf/simulated/floor/asteroid/grass,
 /area/liberty/outside/forest)
 "jyb" = (
-/obj/landmark/join/start/shepherd,
 /turf/simulated/floor/carpet/oracarpet,
 /area/liberty/pros/foreman)
 "jyt" = (
@@ -21182,7 +21178,6 @@
 /area/liberty/outside/forest)
 "qbB" = (
 /obj/structure/bed/chair/sofa/brown/right,
-/obj/landmark/join/start/oathbound,
 /turf/simulated/floor/carpet,
 /area/liberty/absolutism/vectorrooms)
 "qcD" = (
@@ -23616,7 +23611,6 @@
 /area/liberty/outside/meadow)
 "sqt" = (
 /obj/structure/bed/chair/wood,
-/obj/landmark/join/start/oathbound,
 /turf/simulated/floor/carpet,
 /area/liberty/absolutism/vectorrooms)
 "sqW" = (
@@ -25929,7 +25923,6 @@
 /turf/simulated/floor/asteroid/dirt/dust,
 /area/liberty/outside/dcave)
 "uKG" = (
-/obj/landmark/join/start/shipbreaker,
 /obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/tiled/steel/techfloor,
 /area/liberty/pros/prep)

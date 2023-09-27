@@ -1,17 +1,17 @@
 //Jobs depatment lists for use in constant expressions
-#define JOBS_COMMAND "Board Secretary","Deputy Chief","Union Chief","Chief Surgeon Overseer","Research Provost","Club Manager","Oathpledge","Field Shepherd"
+#define JOBS_COMMAND "Board Secretary","Deputy Chief","Union Chief","Chief Surgeon Overseer","Research Provost","Club Manager","Field Shepherd"
 #define JOBS_SECURITY "Deputy Chief", "Armorer", "Criminal Investigator", "Watchmen"
 #define JOBS_ENGINEERING "Union Chief","Mechanical Technician","Mining Technician",
 #define JOBS_MEDICAL "Chief Surgeon Overseer","Medical Doctor","Paramedic","Liaison Psychiatrist"
 #define JOBS_SCIENCE "Research Provost","PIRS Scientist","PIRS Roboticist"
 #define JOBS_SERVICE "Club Manager","Fixer"
-#define JOBS_PROSPECTOR "Field Shepherd","Trapper","Shipbreaker"
-#define JOBS_CHURCH "Oathpledge", "Forgemaster", "Enkindled", "Oathbound"
+#define JOBS_PROSPECTOR
+#define JOBS_CHURCH
 #define JOBS_CIVILIAN "Colonist"
 #define JOBS_NONHUMAN "AI","Robot","pAI"
 #define JOBS_INDEPENDENT "Outsider"
 
-#define JOBS_ANTI_HIVEMIND "Deputy Chief","Armorer","Criminal Investigator","Watchmen","Oathpledge","Forgemaster","Enkindled","Oathbound","Field Shepherd","Trapper","Shipbreaker","Board Secretary","AI","Sanitation Technician","Paramedic","PIRS Roboticist","Mining Technician"
+#define JOBS_ANTI_HIVEMIND "Deputy Chief","Armorer","Criminal Investigator","Watchmen","Board Secretary","AI","Sanitation Technician","Paramedic","PIRS Roboticist","Mining Technician"
 
 #define CREDITS "&cent;"
 #define CREDS "&cent;"
