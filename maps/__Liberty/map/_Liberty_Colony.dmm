@@ -22545,7 +22545,6 @@
 /turf/simulated/floor/tiled/techmaint,
 /area/liberty/maintenance/undergroundfloor2north)
 "ffy" = (
-/obj/landmark/join/start/enkindled,
 /turf/simulated/floor/tiled/dark/gray_platform,
 /area/liberty/pros/shuttle)
 "ffC" = (
