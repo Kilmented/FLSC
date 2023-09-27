@@ -2482,7 +2482,6 @@
 /obj/machinery/atmospherics/pipe/manifold/hidden/scrubbers{
 	dir = 1
 	},
-/obj/landmark/join/start/clubworker,
 /turf/simulated/floor/tiled/dark/gray_platform,
 /area/liberty/crew_quarters/barbackroom)
 "aEH" = (
@@ -45055,7 +45054,6 @@
 	dir = 4
 	},
 /obj/effect/decal/cleanable/dirt,
-/obj/landmark/join/start/clubworker,
 /turf/simulated/floor/tiled/dark/gray_platform,
 /area/liberty/crew_quarters/barbackroom)
 "kiY" = (
@@ -48493,7 +48491,6 @@
 	dir = 4;
 	pixel_x = 30
 	},
-/obj/landmark/join/start/janitor,
 /obj/structure/sink{
 	dir = 4;
 	pixel_x = 12;
@@ -61262,7 +61259,6 @@
 /turf/simulated/floor/tiled/techmaint,
 /area/liberty/maintenance/undergroundfloor2west)
 "oaC" = (
-/obj/landmark/join/start/janitor,
 /obj/structure/sink{
 	dir = 8;
 	pixel_x = -11
@@ -82920,7 +82916,6 @@
 /turf/simulated/wall/r_wall,
 /area/liberty/bonfire/stronghold)
 "sQd" = (
-/obj/landmark/join/start/janitor,
 /turf/simulated/floor/tiled/steel/gray_platform,
 /area/liberty/crew_quarters/janitor)
 "sQg" = (
@@ -101789,7 +101784,6 @@
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	dir = 4
 	},
-/obj/landmark/join/start/clubworker,
 /turf/simulated/floor/tiled/dark/gray_platform,
 /area/liberty/crew_quarters/barbackroom)
 "xeI" = (
