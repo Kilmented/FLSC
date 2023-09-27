@@ -9196,10 +9196,6 @@
 /obj/structure/table/rack/shelf,
 /turf/simulated/floor/tiled/steel/gray_perforated,
 /area/liberty/quartermaster/hangarsupply)
-"ccQ" = (
-/obj/landmark/join/start/oathpledge,
-/turf/simulated/floor/tiled/dark/gray_platform,
-/area/liberty/pros/shuttle)
 "cdn" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
@@ -190118,7 +190114,6 @@ upq
 upq
 upq
 upq
-ccQ
 mXG
 rOo
 omv
