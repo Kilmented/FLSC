@@ -76428,7 +76428,6 @@
 /turf/simulated/floor/tiled/dark,
 /area/liberty/pros/prep)
 "rCa" = (
-/obj/landmark/join/start/forgemaster,
 /turf/simulated/floor/wood,
 /area/liberty/crew_quarters/clownoffice)
 "rCf" = (

@@ -47907,7 +47907,6 @@
 /turf/simulated/mineral,
 /area/colony)
 "jpI" = (
-/obj/landmark/join/start/forgemaster,
 /obj/structure/disposalpipe/segment{
 	dir = 4
 	},
@@ -86043,7 +86042,6 @@
 /turf/simulated/floor/tiled/steel/techfloor,
 /area/liberty/engineering/engine_room)
 "qLn" = (
-/obj/landmark/join/start/forgemaster,
 /turf/simulated/floor/wood,
 /area/liberty/crew_quarters/clownoffice)
 "qLp" = (

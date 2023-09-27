@@ -78505,7 +78505,6 @@
 /turf/simulated/floor/industrial/grey_slates,
 /area/liberty/maintenance/undergroundfloor3north)
 "rTA" = (
-/obj/landmark/join/start/forgemaster,
 /turf/simulated/floor/tiled/dark/gray_platform,
 /area/liberty/pros/shuttle)
 "rTE" = (

@@ -6,7 +6,7 @@
 #define JOBS_SCIENCE "Research Provost","PIRS Scientist","PIRS Roboticist"
 #define JOBS_SERVICE "Club Manager","Fixer"
 #define JOBS_PROSPECTOR "Field Shepherd","Trapper","Shipbreaker"
-#define JOBS_CHURCH "Forgemaster", "Enkindled", "Oathbound"
+#define JOBS_CHURCH "Enkindled", "Oathbound"
 #define JOBS_CIVILIAN "Colonist"
 #define JOBS_NONHUMAN "AI","Robot","pAI"
 #define JOBS_INDEPENDENT "Outsider"
