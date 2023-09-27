@@ -106967,7 +106967,6 @@
 /turf/simulated/floor/tiled/dark,
 /area/liberty/maintenance/undergroundfloor1east)
 "yko" = (
-/obj/landmark/join/start/oathbound,
 /turf/simulated/floor/tiled/dark/gray_platform,
 /area/liberty/pros/shuttle)
 "ykx" = (

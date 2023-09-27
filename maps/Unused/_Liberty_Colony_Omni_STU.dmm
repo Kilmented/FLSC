@@ -9012,7 +9012,6 @@
 /area/liberty/outside/pond)
 "bPm" = (
 /obj/structure/bed/chair/sofa/brown/right,
-/obj/landmark/join/start/oathbound,
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
 	dir = 4
 	},
@@ -21412,7 +21411,6 @@
 	name = "Security Training"
 	})
 "elF" = (
-/obj/landmark/join/start/oathbound,
 /obj/structure/bed/chair/comfy/brown,
 /turf/simulated/floor/carpet,
 /area/liberty/absolutism/vectorrooms)
@@ -38834,7 +38832,6 @@
 /area/liberty/engineering/engine_room)
 "hAv" = (
 /obj/structure/bed/chair/wood,
-/obj/landmark/join/start/oathbound,
 /turf/simulated/floor/carpet,
 /area/liberty/absolutism/vectorrooms)
 "hAC" = (

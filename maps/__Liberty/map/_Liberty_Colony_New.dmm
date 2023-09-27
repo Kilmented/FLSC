@@ -6923,7 +6923,6 @@
 /obj/structure/bed/chair/comfy/brown{
 	dir = 4
 	},
-/obj/landmark/join/start/oathbound,
 /turf/simulated/floor/carpet,
 /area/liberty/absolutism/vectorrooms)
 "bIi" = (
@@ -34467,7 +34466,6 @@
 /area/liberty/maintenance/substation/bridge)
 "hZr" = (
 /obj/structure/bed/chair/wood,
-/obj/landmark/join/start/oathbound,
 /turf/simulated/floor/carpet,
 /area/liberty/absolutism/vectorrooms)
 "hZt" = (
@@ -50105,7 +50103,6 @@
 /obj/structure/bed/chair{
 	dir = 1
 	},
-/obj/landmark/join/start/oathbound,
 /turf/simulated/floor/tiled/dark/gray_platform,
 /area/liberty/absolutism/bioreactor)
 "lIp" = (
@@ -85210,7 +85207,6 @@
 /obj/structure/bed/chair/comfy/brown{
 	dir = 8
 	},
-/obj/landmark/join/start/oathbound,
 /obj/machinery/firealarm{
 	dir = 8;
 	pixel_x = 32
@@ -101763,7 +101759,6 @@
 /turf/simulated/floor/reinforced,
 /area/liberty/rnd/xenobiology)
 "xof" = (
-/obj/landmark/join/start/oathbound,
 /obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/tiled/dark/golden,
 /area/liberty/absolutism/bioreactor)

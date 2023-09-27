@@ -14057,7 +14057,6 @@
 /turf/simulated/floor/tiled/dark/golden,
 /area/liberty/absolutism/storage)
 "iLk" = (
-/obj/landmark/join/start/oathbound,
 /obj/structure/bed/chair/comfy/brown,
 /turf/simulated/floor/carpet,
 /area/liberty/absolutism/vectorrooms)
@@ -21182,7 +21181,6 @@
 /area/liberty/outside/forest)
 "qbB" = (
 /obj/structure/bed/chair/sofa/brown/right,
-/obj/landmark/join/start/oathbound,
 /turf/simulated/floor/carpet,
 /area/liberty/absolutism/vectorrooms)
 "qcD" = (
@@ -23616,7 +23614,6 @@
 /area/liberty/outside/meadow)
 "sqt" = (
 /obj/structure/bed/chair/wood,
-/obj/landmark/join/start/oathbound,
 /turf/simulated/floor/carpet,
 /area/liberty/absolutism/vectorrooms)
 "sqW" = (
