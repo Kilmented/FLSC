@@ -175,7 +175,7 @@
 					/obj/item/ammo_casing/flare/green/prespawn = 5,
 					/obj/item/device/hailer = 8,
 					/obj/item/taperoll/police = 8,
-					/obj/item/storage/box/evidence = 2,
+					/obj/item/storage/box/evidence = 5,
 					/obj/item/tool/fireaxe/militia_tomahawk = 4,
 					/obj/item/tool/knife/tacknife = 4,
 					/obj/item/tool/baton/mini = 6)
