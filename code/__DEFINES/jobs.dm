@@ -4,7 +4,7 @@
 #define JOBS_ENGINEERING "Union Chief","Mechanical Technician","Mining Technician",
 #define JOBS_MEDICAL "Chief Surgeon Overseer","Medical Doctor","Paramedic","Liaison Psychiatrist"
 #define JOBS_SCIENCE "Research Provost","PIRS Scientist","PIRS Roboticist"
-#define JOBS_SERVICE "Club Manager","Fixer","Club Worker","Janitor"
+#define JOBS_SERVICE "Club Manager","Fixer"
 #define JOBS_PROSPECTOR "Field Shepherd","Trapper","Shipbreaker"
 #define JOBS_CHURCH "Oathpledge", "Forgemaster", "Enkindled", "Oathbound"
 #define JOBS_CIVILIAN "Colonist"
