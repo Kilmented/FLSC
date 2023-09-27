@@ -64478,7 +64478,7 @@
 "oJP" = (
 /obj/structure/flora/ausbushes/sunnybush,
 /turf/simulated/floor/asteroid/grass,
-/area/eris/medical/psych)
+/area/liberty/medical/psych)
 "oJR" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/random/cluster/roaches,
@@ -89112,7 +89112,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/wood,
-/area/eris/medical/psych)
+/area/liberty/medical/psych)
 "ule" = (
 /obj/structure/window/reinforced{
 	dir = 8
