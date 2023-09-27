@@ -3139,7 +3139,7 @@
 "aLK" = (
 /obj/machinery/door/airlock/security{
 	name = "Evidence Storage";
-	req_one_access = list(1, 4)
+	req_one_access = list(1,4)
 	},
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
@@ -24282,7 +24282,6 @@
 /area/liberty/maintenance/undergroundfloor3south)
 "fzH" = (
 /obj/structure/flora/ausbushes/ppflowers,
-/mob/living/simple_animal/fennec,
 /turf/simulated/floor/asteroid/grass,
 /area/liberty/medical/psych)
 "fzN" = (
@@ -64478,7 +64477,6 @@
 /area/liberty/crew_quarters/bar)
 "oJP" = (
 /obj/structure/flora/ausbushes/sunnybush,
-/mob/living/simple_animal/redpanda,
 /turf/simulated/floor/asteroid/grass,
 /area/liberty/medical/psych)
 "oJR" = (
