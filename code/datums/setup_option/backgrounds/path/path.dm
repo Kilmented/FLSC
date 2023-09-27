@@ -5,6 +5,8 @@
 	desc = "You used to work in the labour sector as a miner, janitor or anything else you could think of. \
 	This made you stronger and skilled at practical things but not very smart."
 
+	perks = list(PERK_NEAT)
+
 	stat_modifiers = list(STAT_ROB = 5, STAT_BIO = -5, STAT_MEC = 10, STAT_TGH = 5, STAT_COG = -5)
 
 /datum/category_item/setup_option/background/path/paper_worm
