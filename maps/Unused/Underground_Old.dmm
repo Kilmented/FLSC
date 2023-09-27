@@ -11714,7 +11714,6 @@
 /turf/simulated/floor/tiled/dark/greencorner,
 /area/liberty/crew_quarters/sleep/cryo2)
 "aEG" = (
-/obj/landmark/join/start/shepherd,
 /turf/simulated/floor/carpet/oracarpet,
 /area/liberty/pros/foreman)
 "aEH" = (

@@ -14728,7 +14728,6 @@
 /turf/simulated/floor/asteroid/grass,
 /area/liberty/outside/forest)
 "jyb" = (
-/obj/landmark/join/start/shepherd,
 /turf/simulated/floor/carpet/oracarpet,
 /area/liberty/pros/foreman)
 "jyt" = (

@@ -5,13 +5,13 @@
 #define JOBS_MEDICAL "Chief Surgeon Overseer","Medical Doctor","Paramedic","Liaison Psychiatrist"
 #define JOBS_SCIENCE "Research Provost","PIRS Scientist","PIRS Roboticist"
 #define JOBS_SERVICE "Club Manager","Fixer"
-#define JOBS_PROSPECTOR "Field Shepherd","Trapper","Shipbreaker"
+#define JOBS_PROSPECTOR "Trapper","Shipbreaker"
 #define JOBS_CHURCH
 #define JOBS_CIVILIAN "Colonist"
 #define JOBS_NONHUMAN "AI","Robot","pAI"
 #define JOBS_INDEPENDENT "Outsider"
 
-#define JOBS_ANTI_HIVEMIND "Deputy Chief","Armorer","Criminal Investigator","Watchmen","Field Shepherd","Trapper","Shipbreaker","Board Secretary","AI","Sanitation Technician","Paramedic","PIRS Roboticist","Mining Technician"
+#define JOBS_ANTI_HIVEMIND "Deputy Chief","Armorer","Criminal Investigator","Watchmen","Trapper","Shipbreaker","Board Secretary","AI","Sanitation Technician","Paramedic","PIRS Roboticist","Mining Technician"
 
 #define CREDITS "&cent;"
 #define CREDS "&cent;"

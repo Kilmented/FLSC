@@ -73587,7 +73587,6 @@
 /turf/simulated/floor/plating/under,
 /area/liberty/maintenance/maint_merc)
 "qLo" = (
-/obj/landmark/join/start/shepherd,
 /turf/simulated/floor/tiled/dark/gray_platform,
 /area/liberty/pros/shuttle)
 "qLs" = (
