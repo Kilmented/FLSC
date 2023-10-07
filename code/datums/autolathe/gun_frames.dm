@@ -26,15 +26,15 @@ This is mostly used for Marshal gun crafting to make it so they can make guns bu
 	build_path = /obj/item/part/gun/frame/tactical
 
 /datum/design/autolathe/gun_frame/ak
-	name = "6.5mm / 7.62mm kalashnikov - frame"
+	name = "5.45mm / 7.62mm kalashnikov - frame"
 	build_path = /obj/item/part/gun/frame/ak47
 
 /datum/design/autolathe/gun_frame/federalist
-	name = "6.5mm federalist carbine - frame"
+	name = "5.45mm federalist carbine - frame"
 	build_path = /obj/item/part/gun/frame/federalist
 
 /datum/design/autolathe/gun_frame/buzzsaw
-	name = "6.5mm buzzsaw LMG - frame"
+	name = "5.45mm buzzsaw LMG - frame"
 	build_path = /obj/item/part/gun/frame/buzzsaw
 
 /datum/design/autolathe/gun_frame/operator_rifle
@@ -76,11 +76,11 @@ This is mostly used for Marshal gun crafting to make it so they can make guns bu
 	build_path = /obj/item/part/gun/frame/broz
 
 /datum/design/autolathe/gun_frame/ak47
-	name = "6.5mm / 7.62mm Kalashnikov - frame"
+	name = "5.45mm / 7.62mm Kalashnikov - frame"
 	build_path = /obj/item/part/gun/frame/ak47
 
 /datum/design/autolathe/gun_frame/duty
-	name = "6.5mm Duty - frame"
+	name = "5.45mm Duty - frame"
 	build_path = /obj/item/part/gun/frame/duty
 
 /datum/design/autolathe/gun_frame/sweeper

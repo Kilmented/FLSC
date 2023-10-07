@@ -1,7 +1,7 @@
 /obj/item/gun/projectile/automatic/federalist
 	name = "\"Federalist\" carbine"
 	desc = "A weapon of a true Solarian Federation patriot. A home-owners dream rifle. \
-			A copy of the famous \"Federalist\" pattern carbine, chambered in 6.5mm."
+			A copy of the famous \"Federalist\" pattern carbine, chambered in 5.45mm."
 	icon = 'icons/obj/guns/projectile/ar.dmi'
 	icon_state = "AR"
 	item_state = "AR"
@@ -76,7 +76,7 @@
 /obj/item/gun/projectile/automatic/federalist/homemaker
 	name = "\"Homemaker\" marksman carbine"
 	desc = "A weapon of a True Solarian Federaltion patriot. A home-owners dream rifle. \
-			A copy of the famous \"Federalist\" carbine, chambered in 6.5mm. This variant appears to have lost its capability to switch to full-auto, but a better barrel and scope attached to compensate."
+			A copy of the famous \"Federalist\" carbine, chambered in 5.45mm. This variant appears to have lost its capability to switch to full-auto, but a better barrel and scope attached to compensate."
 	icon = 'icons/obj/guns/projectile/ar_scope.dmi'
 	fire_sound = 'sound/weapons/guns/fire/batrifle_fire.ogg'
 	price_tag = 800

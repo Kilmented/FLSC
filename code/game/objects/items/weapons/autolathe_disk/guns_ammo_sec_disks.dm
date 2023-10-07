@@ -409,10 +409,10 @@
 		/datum/design/autolathe/ammo/smg_lethal = 2,
 	)
 
-// 6.5mm carbines
+// 5.45mm carbines
 
 /obj/item/computer_hardware/hard_drive/portable/design/guns/federalist
-	disk_name = "ML - 6.5mm \"Federalist\" Carbine"
+	disk_name = "ML - 5.45mm \"Federalist\" Carbine"
 	icon_state = "martian"
 
 	license = 18
@@ -429,7 +429,7 @@
 		)
 
 /obj/item/computer_hardware/hard_drive/portable/design/guns/ak47carbine
-	disk_name = "LG - 6.5mm Ugil Carbine"
+	disk_name = "LG - 5.45mm Ugil Carbine"
 	icon_state = "liberty"
 
 	license = 16
@@ -446,7 +446,7 @@
 	)
 
 /obj/item/computer_hardware/hard_drive/portable/design/guns/duty
-	disk_name = "Car-Van - 6.5mm Duty Marksman Carbine"
+	disk_name = "Car-Van - 5.45mm Duty Marksman Carbine"
 	icon_state = "carvan"
 
 	license = 16
@@ -476,10 +476,10 @@
 		/datum/design/autolathe/ammo/lrifle_ammobox_rubber,
 	)
 
-// 6.5mm LMG
+// 5.45mm LMG
 
 /obj/item/computer_hardware/hard_drive/portable/design/guns/buzzsaw
-	disk_name = "ML - 6.5mm Buzzsaw LMG"
+	disk_name = "ML - 5.45mm Buzzsaw LMG"
 	icon_state = "martian"
 
 	license = 8 //So we can print 2 and some ammo
@@ -493,7 +493,7 @@
 	)
 
 /obj/item/computer_hardware/hard_drive/portable/design/guns/hog
-	disk_name = "LG - 6.5mm Hog LMG"
+	disk_name = "LG - 5.45mm Hog LMG"
 	icon_state = "liberty"
 
 	license = 8 //So we can print 2 and some ammo
@@ -506,10 +506,10 @@
 		/datum/design/autolathe/ammo/lrifle_ammobox_rubber,
 	)
 
-//6.5mm Bolt Action Rifle
+//5.45mm Bolt Action Rifle
 
 /obj/item/computer_hardware/hard_drive/portable/design/guns/rosefield
-	disk_name = "Car-Van - 6.5mm Rosefield Rifle"
+	disk_name = "Car-Van - 5.45mm Rosefield Rifle"
 	icon_state = "carvan"
 
 	license = 8

@@ -182,8 +182,8 @@
 	materials = list(MATERIAL_STEEL = 5, MATERIAL_GLASS = 2.5, MATERIAL_GOLD = 2.5)
 
 /datum/design/research/item/ammo/light_rifle_257
-	name = "Light rifle 6.5mm laser casing."
-	desc = "6.5mm casings fitted with a one time use laser payload."
+	name = "Light rifle 5.45mm laser casing."
+	desc = "5.45mm casings fitted with a one time use laser payload."
 	build_path = /obj/item/ammo_magazine/ammobox/light_rifle_257_small/laser
 	materials = list(MATERIAL_STEEL = 10, MATERIAL_GLASS = 2.5, MATERIAL_GOLD = 2.5)
 

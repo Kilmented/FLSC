@@ -1,9 +1,9 @@
 /////////////////////////
-//6.5mm Mamba, Standard//
+//5.45mm Mamba, Standard//
 /////////////////////////
 /obj/item/gun/projectile/automatic/mamba
 	name = "\"Mamba\" carbine"
-	desc = "Produced cheaply, versatile and made for mass usage are all traits of the 6.5mm \"Mamba\" carbine. Made by Liberty Marshal gunsmiths to be used in both close and mid-range combat the Mamba sports a folding adjustable stock and a holographic sight."
+	desc = "Produced cheaply, versatile and made for mass usage are all traits of the 5.45mm \"Mamba\" carbine. Made by Liberty Marshal gunsmiths to be used in both close and mid-range combat the Mamba sports a folding adjustable stock and a holographic sight."
 	icon_state = "mamba"
 	item_state = "mamba"
 	icon = 'icons/obj/guns/projectile/mamba.dmi'

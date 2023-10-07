@@ -152,7 +152,7 @@
 //// 6.5 carbine ////
 
 /obj/item/ammo_casing/light_rifle_257
-	desc = "A 6.5mm bullet casing."
+	desc = "A 5.45mm bullet casing."
 	icon_state = "srifle_c_l"
 	spent_icon = "srifle_c_l-spent"
 	shell_color = "l"
@@ -164,35 +164,35 @@
 	amount = 10
 
 /obj/item/ammo_casing/light_rifle_257/practice
-	desc = "A 6.5mm practice bullet casing."
+	desc = "A 5.45mm practice bullet casing."
 	icon_state = "srifle_c_p"
 	spent_icon = "srifle_c_p-spent"
 	shell_color = "p"
 	projectile_type = /obj/item/projectile/bullet/light_rifle_257/practice
 
 /obj/item/ammo_casing/light_rifle_257/hv
-	desc = "A 6.5mm high-velocity bullet casing."
+	desc = "A 5.45mm high-velocity bullet casing."
 	icon_state = "srifle_c_hv"
 	spent_icon = "srifle_c_hv-spent"
 	shell_color = "hv"
 	projectile_type = /obj/item/projectile/bullet/light_rifle_257/hv
 
 /obj/item/ammo_casing/light_rifle_257/rubber
-	desc = "A 6.5mm rubber bullet casing."
+	desc = "A 5.45mm rubber bullet casing."
 	icon_state = "srifle_c_r"
 	spent_icon = "srifle_c_r-spent"
 	shell_color = "r"
 	projectile_type = /obj/item/projectile/bullet/light_rifle_257/rubber
 
 /obj/item/ammo_casing/light_rifle_257/rubber/pepperball
-	desc = "A 6.5mm pepper-ball projectile casing."
+	desc = "A 5.45mm pepper-ball projectile casing."
 	icon_state = "lrifle_c_pepper"
 	spent_icon = "lrifle_c_pepper-spent"
 	shell_color = "l"
 	projectile_type = /obj/item/projectile/bullet/light_rifle_257/rubber/pepperball
 
 /obj/item/ammo_casing/light_rifle_257/scrap
-	desc = "An old 6.5mm rifle bullet casing."
+	desc = "An old 5.45mm rifle bullet casing."
 	icon_state = "srifle_c_s"
 	spent_icon = "srifle_c_s-spent"
 	shell_color = "p"
@@ -202,12 +202,12 @@
 	amount = 10
 
 /obj/item/ammo_casing/light_rifle_257/lethal
-	desc = "A 6.5mm hollow-point bullet casing."
+	desc = "A 5.45mm hollow-point bullet casing."
 	shell_color = "l"
 	projectile_type = /obj/item/projectile/bullet/light_rifle_257/lethal
 
 /obj/item/ammo_casing/light_rifle_257/incend
-	desc = "A 6.5mm incendiary bullet casing."
+	desc = "A 5.45mm incendiary bullet casing."
 	shell_color = "l"
 	projectile_type = /obj/item/projectile/bullet/light_rifle_257/incend
 
@@ -215,7 +215,7 @@
 	amount = 10
 
 /obj/item/ammo_casing/light_rifle_257/laser
-	desc = "A 6.5mm laser casing."
+	desc = "A 5.45mm laser casing."
 	projectile_type = /obj/item/projectile/beam/weak/light_rifle_257
 
 //// 7.62mm Rifle ////

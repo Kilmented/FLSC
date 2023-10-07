@@ -1,7 +1,7 @@
 /obj/item/gun/projectile/boltgun/rosefield
 	name = "\"Rosefield\" boltgun"
 	desc = "A hunters best friend, especially for hunting small game! \
-			Chambered in 6.5mm this versetile gun can easily preform in most enviorments."
+			Chambered in 5.45mm this versetile gun can easily preform in most enviorments."
 	icon = 'icons/obj/guns/projectile/rosefield.dmi'
 	icon_state = "rosefield"
 	item_state = "rosefield"
@@ -35,7 +35,7 @@
 
 /obj/item/gun/projectile/boltgun/rosefield/sawn //subtype for code
 	name = "\"Rosefield\" obrez boltgun"
-	desc = "A crudly mangled and sawn-down 6.5mm bolt action rifle."
+	desc = "A crudly mangled and sawn-down 5.45mm bolt action rifle."
 	icon = 'icons/obj/guns/projectile/sawnoff/rosefield.dmi'
 	icon_state = "obrez"
 	item_state = "obrez"

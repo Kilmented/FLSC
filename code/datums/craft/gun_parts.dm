@@ -423,8 +423,8 @@ Make it so steel parts fit into any gun you want but can 'break', or cause jams.
 	refence_for_legal = "magnum"
 
 /obj/item/part/gun/barrel/srifle
-	name = "6.5mm carbine barrel"
-	desc = "A gun barrel, which keeps the bullet going in the right direction. Chambered for 6.5mm carbine."
+	name = "5.45mm carbine barrel"
+	desc = "A gun barrel, which keeps the bullet going in the right direction. Chambered for 5.45x39mm Warsaw."
 	icon_state = "barrel_carbine"
 	matter = list(MATERIAL_PLASTEEL = 8)
 	caliber = CAL_SRIFLE
@@ -476,8 +476,8 @@ Make it so steel parts fit into any gun you want but can 'break', or cause jams.
 	matter = list(MATERIAL_STEEL = 2)
 
 /obj/item/part/gun/barrel/srifle/steel
-	name = "cheap 6.5mm barrel"
-	desc = "A gun barrel, which keeps the bullet going in the right direction. Chambered for 6.5mm carbine. \
+	name = "cheap 5.45mm barrel"
+	desc = "A gun barrel, which keeps the bullet going in the right direction. Chambered for 5.45mm. \
 			 This one does not look as high quality."
 	matter = list(MATERIAL_STEEL = 5)
 

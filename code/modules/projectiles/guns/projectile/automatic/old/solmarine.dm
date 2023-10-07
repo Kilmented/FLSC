@@ -1,7 +1,7 @@
 /obj/item/gun/projectile/automatic/omnirifle/solmarine
 	name = "\"Solarian\" carbine"
 	desc = "An ancient looking rifle found commonly in the Sol Federation's old military stockpiles. Reliable but heavily dated. \
-		 It appears to have been converted at some point to chamber in 6.5mm, possibly having taken different rounds at some point. \
+		 It appears to have been converted at some point to chamber in 5.45mm, possibly having taken different rounds at some point. \
 		 Someone.. also thought it was a good idea to slap some sort of underbarrel shotgun to it. Clunky, but it works!"
 	icon = 'icons/obj/guns/projectile/solmarine.dmi'
 	icon_state = "solmarine"
@@ -74,7 +74,7 @@
 /obj/item/gun/projectile/automatic/omnirifle/solmarine/sawn
 	name = "sawn down \"Solarian\" carbine"
 	desc = "An ancient looking rifle found commonly in the Sol Federation's old military stockpiles. Reliable but heavily dated. \
-		 It appears to have been converted at some point to chamber in 6.5mm, possibly having taken different rounds at some point. \
+		 It appears to have been converted at some point to chamber in 5.45mm, possibly having taken different rounds at some point. \
 		 Someone butchered this thing beyond recognition! At least it fits in a holster."
 	icon = 'icons/obj/guns/projectile/sawnoff/solmarine.dmi'
 	icon_state = "solmarine"
@@ -96,7 +96,7 @@
 /obj/item/gun/projectile/automatic/omnirifle/solmarine/shotgunless_sawn
 	name = "sawn down \"Saturnian\" carbine"
 	desc = "An ancient design that predates mass autolathe-printed rifles found commonly in the Sol Federation's oldest military stockpiles. Reliable but heavily dated. \
-		 Unlike other old stocks this one was always intented to be a 6.5mm.\
+		 Unlike other old stocks this one was always intented to be a 5.45mm.\
 		 Someone butchered this thing beyond recognition! At least it fits in a holster now."
 	icon = 'icons/obj/guns/projectile/sawnoff/solmarine.dmi'
 	matter = list(MATERIAL_IRON = 10, MATERIAL_PLASTIC = 8)
@@ -115,7 +115,7 @@
 /obj/item/gun/projectile/automatic/omnirifle/solmarine/shotgunless
 	name = "\"Saturnian\" carbine"
 	desc = "An ancient design that predates mass autolathe-printed rifles found commonly in the Sol Federation's oldest military stockpiles. Reliable but heavily dated. \
-		 Unlike other old stock this one was always intented to be a 6.5mm."
+		 Unlike other old stock this one was always intented to be a 5.45mm."
 	icon = 'icons/obj/guns/projectile/martian.dmi'
 	icon_state = "service"
 	item_state = "service"

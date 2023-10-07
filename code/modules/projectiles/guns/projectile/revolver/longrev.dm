@@ -1,6 +1,6 @@
 /obj/item/gun/projectile/revolver/longboi
 	name = "\"Long\" revolver"
-	desc = "A novelty revolver made by the Skylight with a stupidly long barrel favored by those with less sense than style, its extended barrel gives it incredible stopping power and penetration but loses recoil control. Uses 6.5mm."
+	desc = "A novelty revolver made by the Skylight with a stupidly long barrel favored by those with less sense than style, its extended barrel gives it incredible stopping power and penetration but loses recoil control. Uses 5.45mm."
 	icon = 'icons/obj/guns/projectile/Long_Revolver.dmi'
 	icon_state = "longRevolver"
 	w_class = ITEM_SIZE_NORMAL

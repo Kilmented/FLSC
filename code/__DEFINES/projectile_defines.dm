@@ -1,9 +1,12 @@
 //Caliber Defines
-#define CAL_PISTOL "9mm"
-#define CAL_MAGNUM "10mm magnum"
+#define CAL_PISTOL "9x19mm Security"
+#define CAL_MAGNUM "10mm Blacklight"
 
-#define CAL_SRIFLE "6.5mm carbine"
-#define CAL_RIFLE "7.62mm rifle"
+#define CAL_SRIFLE "5.45x39mm Warsaw"
+#define CAL_PDW "5.7x28mm Chisai" // Not used, yet. - Jaeger
+#define CAL_BLKRIFLE "7.62x35mm Gothic	" // Isn't being used RN, just setting the stage for future work -Jaeger
+// #define CAL_BRIFLE "6.8x51mm Wrath" // Not being used yet. Battle Rifle x DMR cartridge.
+#define CAL_RIFLE "7.62x54mmR Troika"
 #define CAL_CLRIFLE "7mm caseless"
 
 #define CAL_SHOTGUN "Shotgun Shell"
@@ -35,7 +38,7 @@
 #define MAG_WELL_PISTOL		2
 #define MAG_WELL_H_PISTOL	4	//High cap Pistols
 #define MAG_WELL_SMG		8	//smgs
-#define MAG_WELL_RIFLE		16	// 6.5mm & 7.62mm mags / SBAW (essentially shotgun rifle magazine)
+#define MAG_WELL_RIFLE		16	// 5.45mm & 7.62mm mags / SBAW (essentially shotgun rifle magazine)
 #define MAG_WELL_BOX		32	//Lmgs with box mags
 #define MAG_WELL_PAN		64	//Lmgs with pan mags
 #define MAG_WELL_DART       128 //Dartgun mag

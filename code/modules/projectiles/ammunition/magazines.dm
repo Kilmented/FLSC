@@ -314,7 +314,7 @@
 
 /obj/item/ammo_magazine/light_rifle_257
 	name = "carbine magazine"
-	desc = "A 30 round magazine marked for 6.5mm Carbine."
+	desc = "A 30 round magazine marked for 5.45x39mm Warsaw."
 	icon_state = "lrifle_long"
 	mag_type = MAGAZINE
 	mag_well = MAG_WELL_RIFLE
@@ -366,7 +366,7 @@
 
 /obj/item/ammo_magazine/light_rifle_257_short
 	name = "short carbine magazine"
-	desc = "A 20 round magazine marked for 6.5mm Carbine."
+	desc = "A 20 round magazine marked for 5.45x39mm Warsaw."
 	icon_state = "lrifle_short"
 	mag_type = MAGAZINE
 	mag_well = MAG_WELL_RIFLE
@@ -410,7 +410,7 @@
 
 /obj/item/ammo_magazine/light_rifle_257_drum
 	name = "carbine drum magazine"
-	desc = "A 50 round drum magazine marked for 6.5mm Carbine."
+	desc = "A 50 round drum magazine marked for 5.45x39mm Warsaw."
 	icon_state = "lrifle_drum"
 	mag_type = MAGAZINE
 	mag_well = MAG_WELL_RIFLE
@@ -624,8 +624,8 @@
 
 ///easiest to make it a child
 /obj/item/ammo_magazine/rifle_75_linked_box/light_rifle_257
-	name = "linked ammunition box (6.5mm Carbine)"
-	desc = "A 100 round linked box marked for 6.5mm Carbine."
+	name = "linked ammunition box (5.45x39mm Warsaw)"
+	desc = "A 100 round linked box marked for 5.45x39mm Warsaw."
 	icon_state = "pkl_box"
 	caliber = CAL_SRIFLE
 	ammo_type = /obj/item/ammo_casing/light_rifle_257
@@ -633,15 +633,15 @@
 	multiple_sprites = 1
 
 /obj/item/ammo_magazine/rifle_75_linked_box/light_rifle_257/highvelocity
-	name = "linked ammunition box (6.5mm Carbine highvelocity)"
+	name = "linked ammunition box (5.45x39mm Warsaw highvelocity)"
 	ammo_type = /obj/item/ammo_casing/light_rifle_257/hv
 
 /obj/item/ammo_magazine/rifle_75_linked_box/light_rifle_257/rubber
-	name = "linked ammunition box (6.5mm Carbine rubber)"
+	name = "linked ammunition box (5.45x39mm Warsaw rubber)"
 	ammo_type = /obj/item/ammo_casing/light_rifle_257/rubber
 
 /obj/item/ammo_magazine/rifle_75_linked_box/light_rifle_257/lethal
-	name = "linked ammunition box (6.5mm Carbine hollowpoint)"
+	name = "linked ammunition box (5.45x39mm Warsaw hollowpoint)"
 	ammo_type = /obj/item/ammo_casing/light_rifle_257/lethal
 
 /obj/item/ammo_magazine/rifle_75_linked_box/light_rifle_257/empty
@@ -806,8 +806,8 @@
 	icon_state = "stripper_base"
 
 /obj/item/ammo_magazine/speed_loader_light_rifle_257
-	name = "ammo strip (6.5mm Carbine)"
-	desc = "A 10 round ammo strip for 6.5mm Carbine."
+	name = "ammo strip (5.45x39mm Warsaw)"
+	desc = "A 10 round ammo strip for 5.45x39mm Warsaw."
 	icon_state = "stripper_base"
 	icon = 'icons/obj/ammo_speed.dmi'
 	caliber = CAL_SRIFLE

@@ -293,7 +293,7 @@
 	build_path = /obj/item/part/gun/barrel/magnum
 
 /datum/design/autolathe/part/barrel/carbine
-	name = "firearm 6.5mm carbine barrel"
+	name = "firearm 5.45mm carbine barrel"
 	build_path = /obj/item/part/gun/barrel/srifle
 
 /datum/design/autolathe/part/barrel/rifle
@@ -323,7 +323,7 @@
 	build_path = /obj/item/part/gun/barrel/magnum/steel
 
 /datum/design/autolathe/part/barrel/carbine/steel
-	name = "firearm steel 6.5mm carbine barrel"
+	name = "firearm steel 5.45mm carbine barrel"
 	build_path = /obj/item/part/gun/barrel/srifle/steel
 
 /datum/design/autolathe/part/barrel/rifle/steel

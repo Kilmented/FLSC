@@ -133,7 +133,7 @@
 /obj/item/gun/projectile/automatic/lmg/buzzsaw
 	name = "\"Buzzsaw\" suppression machinegun"
 	desc = "The \"Buzzsaw\" LMG is Seinemetall Defense GmbH's answer to any scenario that requires suppression or meat grinding, a fine oiled machine of war and death. \
-			Takes 6.5mm linked boxes as well as normal carbine magazines."
+			Takes 5.45mm linked boxes as well as normal carbine magazines."
 	icon = 'icons/obj/guns/projectile/buzzsaw.dmi'
 	icon_base = "buzzsaw"
 	icon_state = "buzzsaw"
@@ -192,7 +192,7 @@
 	name = " \"Hog\" General Purpose Machinegun"
 	desc = "The \"Hog\" General Purpose Machinegun was created by local gunsmiths in response to the dense forest and lack of suppressing fire armaments. \
 			Inspired by Martian Logistics' \"Buzzsaw\" LMG, this GPMG features decent recoil control for its bore, and the bizarre capability of being silenced. \
-			Chambered in 6.5mm and meant for emplaced defense, its high rate of fire can mow down wave after wave of armored hostiles with sheer brutality."
+			Chambered in 5.45mm and meant for emplaced defense, its high rate of fire can mow down wave after wave of armored hostiles with sheer brutality."
 	icon = 'icons/obj/guns/projectile/hog.dmi'
 	icon_base = "hog" // Sprites by Albert7076
 	icon_state = "hog"

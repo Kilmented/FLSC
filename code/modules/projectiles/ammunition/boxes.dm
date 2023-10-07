@@ -195,10 +195,10 @@
 	ammo_type = /obj/item/ammo_casing/magnum_40/hv
 
 
-//// 6.5 carbine ////
+//// 5.45x39mm Warsaw ////
 
 /obj/item/ammo_magazine/ammobox/light_rifle_257
-	name = "ammunition box (6.5mm Carbine FMJ)"
+	name = "ammunition box (5.45x39mm Warsaw FMJ)"
 	icon_state = "box_lrifle"
 	matter = list(MATERIAL_STEEL = 10)
 	w_class = ITEM_SIZE_BULKY
@@ -217,28 +217,28 @@
 	playsound(src,'sound/weapons/guns/interact/ammomove.ogg',60,3)
 
 /obj/item/ammo_magazine/ammobox/light_rifle_257/rubber
-	name = "ammunition box (6.5mm Carbine rubber)"
+	name = "ammunition box (5.45x39mm Warsaw Carbine rubber)"
 	icon_state = "box_lrifle_r"
 	ammo_type = /obj/item/ammo_casing/light_rifle_257/rubber
 
 /obj/item/ammo_magazine/ammobox/light_rifle_257/practice
-	name = "ammunition box (6.5mm Carbine practice)"
+	name = "ammunition box (5.45x39mm Warsaw practice)"
 	icon_state = "box_lrifle_p"
 	ammo_type = /obj/item/ammo_casing/light_rifle_257/practice
 
 /obj/item/ammo_magazine/ammobox/light_rifle_257/lethal
-	name = "ammunition box (6.5mm Carbine hollow-point)"
+	name = "ammunition box (5.45x39mm Warsaw hollow-point)"
 	icon_state = "box_clrifle_l"
 	ammo_type = /obj/item/ammo_casing/light_rifle_257/lethal
 
 /obj/item/ammo_magazine/ammobox/light_rifle_257/highvelocity
-	name = "ammunition box (6.5mm Carbine high-velocity)"
+	name = "ammunition box (5.45x39mm Warsaw high-velocity)"
 	icon_state = "box_lrifle_p"
 	ammo_type = /obj/item/ammo_casing/light_rifle_257/hv
 
-// 6.5mm Packets
+// 5.45x39mm Packets
 /obj/item/ammo_magazine/ammobox/light_rifle_257_small
-	name = "ammunition packet (6.5mm Carbine FMJ)"
+	name = "ammunition packet (5.45x39mm Warsaw FMJ)"
 	icon_state = "lrifle"
 	matter = list(MATERIAL_CARDBOARD = 1)
 	caliber = CAL_SRIFLE
@@ -246,43 +246,43 @@
 	max_ammo = 60
 
 /obj/item/ammo_magazine/ammobox/light_rifle_257_small/practice
-	name = "ammunition packet (6.5mm Carbine practice)"
+	name = "ammunition packet (5.45x39mm Warsaw practice)"
 	icon_state = "lrifle_p"
 	ammo_type = /obj/item/ammo_casing/light_rifle_257/practice
 
 /obj/item/ammo_magazine/ammobox/light_rifle_257_small/hv
-	name = "ammunition packet (6.5mm Carbine high-velocity)"
+	name = "ammunition packet (5.45x39mm Warsaw high-velocity)"
 	icon_state = "lrifle_hv"
 	ammo_type = /obj/item/ammo_casing/light_rifle_257/hv
 
 /obj/item/ammo_magazine/ammobox/light_rifle_257_small/rubber
-	name = "ammunition packet (6.5mm Carbine rubber)"
+	name = "ammunition packet (5.45x39mm Warsaw rubber)"
 	icon_state = "lrifle_r"
 	ammo_type = /obj/item/ammo_casing/light_rifle_257/rubber
 
 /obj/item/ammo_magazine/ammobox/light_rifle_257_small/rubber/pepperball
-	name = "ammunition packet (6.5mm Carbine pepperball)"
-	desc = "A box of police grade 6.5mm pepperball type rounds; complete with CO2 cartriage casings."
+	name = "ammunition packet (5.45x39mm Warsaw pepperball)"
+	desc = "A box of police grade 5.45mm pepperball type rounds; complete with CO2 cartriage casings."
 	icon_state = "lrifle_pepper"
 	ammo_type = /obj/item/ammo_casing/light_rifle_257/rubber/pepperball
 
 /obj/item/ammo_magazine/ammobox/light_rifle_257_small/lethal
-	name = "ammunition packet (6.5mm Carbine hollow-point)"
+	name = "ammunition packet (5.45x39mm Warsaw hollow-point)"
 	icon_state = "lrifle_l"
 	ammo_type = /obj/item/ammo_casing/light_rifle_257/lethal
 
 /obj/item/ammo_magazine/ammobox/light_rifle_257_small/incend
-	name = "ammunition packet (6.5mm Carbine incendiary)"
+	name = "ammunition packet (5.45x39mm Warsaw incendiary)"
 	icon_state = "lrifle_l"
 	ammo_type = /obj/item/ammo_casing/light_rifle_257/incend
 
 /obj/item/ammo_magazine/ammobox/light_rifle_257_small/laser
-	name = "ammunition packet (6.5mm Carbine laser)"
+	name = "ammunition packet (5.45x39mm Warsaw laser)"
 	icon_state = "clrifle_si"
 	ammo_type = /obj/item/ammo_casing/light_rifle_257/laser
 
 /obj/item/ammo_magazine/ammobox/light_rifle_257/scrap
-	name = "ammunition packet (old 6.5mm Carbine)"
+	name = "ammunition packet (old 5.45x39mm Warsaw)"
 	icon_state = "clrifle_s"
 	ammo_type = /obj/item/ammo_casing/light_rifle_257/scrap
 	w_class = ITEM_SIZE_NORMAL

@@ -92,7 +92,7 @@
 /obj/item/gun/projectile/automatic/ak47/sa
 	name = "\"Ugil\" carbine"
 	desc = "Weapon of the oppressed, oppressors, and extremists of all flavours. \
-		 	A copy of the AKM pattern, shortened into a mid-length rifle and chambered in 6.5mm. The left arm of the unfree world."
+		 	A copy of the AKM pattern, shortened into a mid-length rifle and chambered in 5.45mm. The left arm of the unfree world."
 	icon = 'icons/obj/guns/projectile/ak5.dmi'
 	icon_state = "AK"
 	item_state = "AK"
@@ -186,5 +186,5 @@
 	resultvars = list(/obj/item/gun/projectile/automatic/ak47/makeshift)
 	gripvars = list(/obj/item/part/gun/grip/black)
 	mechanismvar = /obj/item/part/gun/mechanism/autorifle/steel
-	barrelvars = list(/obj/item/part/gun/barrel/lrifle/steel, /obj/item/part/gun/barrel/srifle/steel)	//6.5mm or 7.62mm.
+	barrelvars = list(/obj/item/part/gun/barrel/lrifle/steel, /obj/item/part/gun/barrel/srifle/steel)	//5.45mm or 7.62mm.
 	nra = FALSE		//This controls if the weapon checks for barrels or not. If you want a gun to have MULTIPLE calibers that it can be chambered in, put FALSE.
