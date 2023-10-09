@@ -9,7 +9,7 @@
 #define CAL_RIFLE "7.62x54mmR Troika"
 #define CAL_CLRIFLE "7mm caseless"
 
-#define CAL_SHOTGUN "Shotgun Shell"
+#define CAL_SHOTGUN "10ga Shotgun Shell"
 
 #define CAL_ANTIM "14.5mm Anti Materiel"
 
